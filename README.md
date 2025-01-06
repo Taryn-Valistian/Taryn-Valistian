@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development, archival activities, cross platform solutions, and much more...
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me `discord:`
+- 📫 How to reach me `discord:` `ServUO: Taryn`
 
 <div class="badges-githubstats">
   <p align="center">
