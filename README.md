@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Taryn-Valistian
 - 👀 I’m interested in game development, archival activities, cross platform solutions, and much more...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me `ServUO: Taryn`
+- 📫 How to reach me ![ServUO](https://img.shields.io/badge/ServUO-Taryn-blue) ![ModernUO](https://img.shields.io/badge/ModernUO-Taryn-blue) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](taryn_._)
 
 <div class="badges-githubstats">
   <p align="center">
