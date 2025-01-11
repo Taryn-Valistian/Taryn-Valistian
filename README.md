@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on any projects, just reach out
 - 📫 How to reach me ![ServUO](https://img.shields.io/badge/ServUO-Taryn-blue) ![ModernUO](https://img.shields.io/badge/ModernUO-Taryn-blue) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](taryn_._)
 
-- My Other Account: https://github.com/archivist-taryn
+- My Other Account: [Archivist-Taryn](https://github.com/archivist-taryn)
 
 <div class="badges-githubstats">
   <p align="center">
