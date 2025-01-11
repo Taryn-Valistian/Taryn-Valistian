@@ -3,6 +3,8 @@
 - 💞️ I’m looking to collaborate on any projects, just reach out
 - 📫 How to reach me ![ServUO](https://img.shields.io/badge/ServUO-Taryn-blue) ![ModernUO](https://img.shields.io/badge/ModernUO-Taryn-blue) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](taryn_._)
 
+- My Other Account: https://github.com/archivist-taryn
+
 <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Taryn-Valistian&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Taryn-Valistian's Stats" height="165">
